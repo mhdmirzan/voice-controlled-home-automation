@@ -1,5 +1,7 @@
 # Home Automation System Using Voice Control (Google Home Integration) with ESP32
 
+![Voice controlled Home Automation Circuit Design](screenshot-home-automation.png)
+
 This project demonstrates a home automation system that allows you to control your smart devices using voice commands through the **Google Home app**. The system is powered by **ESP32** and connected to the **Sinric Pro API** for seamless device control. You can control the devices from anywhere in the world using the Google Home app linked to your phone.
 
 ## Features:
